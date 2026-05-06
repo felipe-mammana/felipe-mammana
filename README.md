@@ -54,22 +54,13 @@
 |---|---|
 | 🖥️ Sistema PyQt5 | Sistema desktop com gerenciamento de usuários, gráficos e banco de dados |
 | 📄 Sistema de PDF Automático | Geração automática de PDFs para processos internos |
-| ⚙️ Scripts de Automação | Automações para otimização de tarefas e processos |
-| 🛠️ Sistemas Internos | Desenvolvimento e manutenção de aplicações corporativas |
+| ⚙️ Sistema de Controle de Estoque | Controle de estoque para os setores da empresa |
+
 
 </div>
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-mammana&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-mammana&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
