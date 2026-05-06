@@ -36,12 +36,15 @@
 ## 🚀 Projetos em destaque
 
 🔹 Sistema de Gestão com PyQt5
+
 Sistema desktop completo com banco de dados e interface gráfica
 
 🔹 Sistema de Geração de Orçamentos
+
 Aplicação para criação automática de orçamentos
 
 🔹 Sistema de Controle de Estoque
+
 Soluções para o controle de estoque de empresas
 
 
