@@ -40,7 +40,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=windows,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
 
 </div>
 
