@@ -1,55 +1,91 @@
+<div align="center">
+
 # 👋 Olá, eu sou Felipe Mammana
 
-💻 Desenvolvedor em formação com experiência prática em suporte de TI e desenvolvimento de sistemas
-🚀 Atuo com automação de processos, manutenção de sistemas e desenvolvimento de aplicações internas
-📚 Atualmente cursando Análise e Desenvolvimento de Sistemas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Python+%7C+PHP+%7C+JavaScript;Sistemas+Desktop+e+Automa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧠 Tecnologias
+<div align="center">
 
-* Python (automação, sistemas desktop)
-* PHP, JavaScript, HTML, CSS
-* MySQL
-* Git & GitHub
-* Qt Designer (interfaces desktop)
+### 💻 Desenvolvedor focado em automação, sistemas desktop e suporte de TI  
+### 🚀 Atualmente trabalhando com desenvolvimento de sistemas internos  
+### 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 
----
+<br>
 
-## 💼 Experiência
+<a href="mailto:felipewmammana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-🔹 **Help Desk / Suporte de TI – Master Health**
+<a href="https://github.com/felipe-mammana">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-* Desenvolvimento de sistemas internos para automação de processos
-* Manutenção e melhoria de aplicações existentes
-* Suporte técnico e resolução de problemas em sistemas corporativos
-* Integração entre usuários e sistemas
+<a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-🔹 **Aprendiz de Informática – Panificadora CEPAM**
-
-* Suporte técnico a usuários
-* Manutenção de computadores e sistemas
-* Configuração de softwares e redes
+</div>
 
 ---
 
-## 🚀 Projetos em destaque
+# 🛠️ Languages • Frameworks • Tools
 
-🔹 Sistema de Gestão com PyQt5
+<div align="center">
 
-Sistema desktop completo com banco de dados e interface gráfica
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,git,github,vscode&theme=dark" />
 
-🔹 Sistema de Geração de Orçamentos
+<br><br>
 
-Aplicação para criação automática de orçamentos
+<img src="https://skillicons.dev/icons?i=windows,bash&theme=dark" />
 
-🔹 Sistema de Controle de Estoque
+</div>
 
-Soluções para o controle de estoque de empresas
+---
 
+# 🚀 Projetos em Destaque
 
-## 📫 Contato
+<div align="center">
 
-* 📧 Email: contatofelipewmammana@gmail.com
-* 📱 WhatsApp: +55 (11) 95833-7982
-* 💼 LinkedIn: https://www.linkedin.com/in/felipe-w-mammana-65873528b
+| Projeto | Descrição |
+|---|---|
+| 🖥️ Sistema PyQt5 | Sistema desktop com gerenciamento de usuários, gráficos e banco de dados |
+| 📄 Sistema de PDF Automático | Geração automática de PDFs para processos internos |
+| ⚙️ Scripts de Automação | Automações para otimização de tarefas e processos |
+| 🛠️ Sistemas Internos | Desenvolvimento e manutenção de aplicações corporativas |
+
+</div>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-mammana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-mammana&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Sobre Mim
+
+```txt
+💻 Apaixonado por tecnologia desde cedo
+🧠 Interesse em programação, hardware e sistemas
+🚀 Sempre buscando evoluir e aprender novas tecnologias
+🤝 Valorizo trabalho em equipe e resolução de problemas
+```
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=felipe-mammana&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" />
+
+</div>
